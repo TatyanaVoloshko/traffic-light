@@ -1,0 +1,35 @@
+.container {
+    padding: 50px;
+    flex-direction: column;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 40px;
+}
+
+#red {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+#yellow {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-bottom: 10px;
+}
+
+#green {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: green;
+}
+
+.text-green {
+    color: green;
+}
